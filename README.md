@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Christian!<br><br>💫 About Me:
-🔭 I’m currently working on Flávio Ribeiro Contabilidade<br>🌱 I’m currently learning Laravel, VueJS and Quarkus<br>📫 How to reach me christian.dsantos@outlook.com
+🔭 I’m currently working at Flávio Ribeiro Contabilidade<br>🌱 I’m currently learning Laravel, VueJS and Quarkus<br>📫 How to reach me christian.dsantos@outlook.com
 
 
 ## 🌐 Socials:
